@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Header, Segment, Container, Icon, Image } from 'semantic-ui-react';
+import { Grid, Segment, Icon } from 'semantic-ui-react';
 import Background from './Background.js'
 
 class App extends Component {
